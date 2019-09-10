@@ -1,3 +1,27 @@
+# Built with gatsby
+
+to get started:
+
+`npm install`
+
+
+## For development
+run `npm run develop` and `npm run start` in two different terminals, develop is for hot reloading frontend
+
+## For production
+run `npm run build`
+
+then to start app, run `npm run start`
+
+
+
+I decided to use gatsby since it has a quick startup and for the most part has a boilerplate similiar to what I would build out.  I chose to use chart.js because it is quite simple, although probably not as performant as would be needed for large datasets, but based on the requirements, it fit the bill.
+
+
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
